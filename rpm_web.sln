@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpm_web", "rpm_web\rpm_web.csproj", "{F4CC2F18-E815-460F-9523-1D3E19CD734B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4CC2F18-E815-460F-9523-1D3E19CD734B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CC2F18-E815-460F-9523-1D3E19CD734B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CC2F18-E815-460F-9523-1D3E19CD734B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CC2F18-E815-460F-9523-1D3E19CD734B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BF5241-E615-43D3-BB56-3E39C405C5DA}
+	EndGlobalSection
+EndGlobal
